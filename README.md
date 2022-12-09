@@ -1,5 +1,5 @@
 
-# bee metagenomic analysis for fungal determination
+# bee ITS metagenomic analysis for fungal determination
 ## 1. step1. dada2 analysis
 
 ## loading listed files usinng dada2 package
